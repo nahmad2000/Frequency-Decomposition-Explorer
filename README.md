@@ -46,19 +46,23 @@ The easiest way to use the application is via the hosted Streamlit Community Clo
 If you prefer to run the application locally:
 
 1.  **Clone the Repository:**
+
 ```bash
-    git clone https://github.com/nahmad2000/Frequency-Decomposition-Explorer.git
-    cd Frequency-Decomposition-Explorer
-    ```
+git clone https://github.com/nahmad2000/Frequency-Decomposition-Explorer.git
+cd Frequency-Decomposition-Explorer
+```
+
 2.  **Install Dependencies:**
     (Ensure you have Python 3.8 or newer installed)
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
+
 3.  **Run the Streamlit App:**
-    ```bash
-    streamlit run main.py
-    ```
+```bash
+streamlit run main.py
+```
+
 4.  The application should open automatically in your web browser (usually at `http://localhost:8501`).
 
 ## ⚙️ Installation (for Local Usage)
